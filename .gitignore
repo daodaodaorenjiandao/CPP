@@ -1,0 +1,7 @@
+*.lastbuildstate
+*.tlog
+*.idb
+*.pdb
+*.sdf
+
+Debug
